@@ -1,6 +1,6 @@
 # Plans and Overview
 
-Please refer to the new conventions that I have outlined in [the conventions and constants file](conventions_and_constants).
+Please refer to the new conventions that I have outlined in [the conventions and constants file](conventions_and_constants.md).
 
 ### General Ideas
 
