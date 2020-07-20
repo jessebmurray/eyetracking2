@@ -12,7 +12,7 @@ Phase = A unique trial/calibration/black screen by a certain subject.
 
 Trial = A unique phase, which is also a trial (solving an anagram).
 
-Part = Either 1st (calibration) part or easy, medium, or hard 2nd part of the planned experiments. 
+Part = Either 1st (ability calibration) part or easy, medium, or hard 2nd part of the planned experiments. 
 
 Bigram = Two-letter combination
 
