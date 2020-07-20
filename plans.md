@@ -60,7 +60,7 @@ Then we could quickly generate all the measurements over the 2d grid of all pair
 
 5. The normalized time in the trial. (Also given as a real number between 0 and 1)
 
-Probably the best way to store these is a NumPy matrix where the features above are columns and each letter in the LGS is a row. I would use your 'analyze_letter_seq.ipynb' file as a point of reference for this. 
+Probably the best way to store these is a NumPy matrix where the features above are columns and each letter in the LGS is a row. I would use [Prof Kouh's analysis file](https://github.com/jessebmurray/eyetracking/blob/master/analyze_letter_seq.ipynb) file as a point of reference for this. 
 
 ### Additional Statistics
 
